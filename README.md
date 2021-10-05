@@ -1,4 +1,7 @@
 
+![introduction banner](https://github.com/rijuld/rijuld/banner.gif)
+
+
 <h1 align="center">Hi 👋, I'm Rijul</h1>
 
 - 🔭 I’m currently working on **LULC Change Detection project**
