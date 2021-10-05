@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Rijul</h1>
-<h3 align="center">A passionate Computer Science Student from BITS Hyderbad</h3>
 
 - 🔭 I’m currently working on **LULC Change Detection project**
 
