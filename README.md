@@ -1,8 +1,6 @@
 
-![introduction banner](banner.gif)
+![introduction banner](banner.mp4)
 
-
-<h1 align="center">Hi 👋, I'm Rijul</h1>
 
 - 🔭 I’m currently working on **LULC Change Detection project**
 
