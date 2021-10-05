@@ -1,5 +1,5 @@
 
-![introduction banner](https://github.com/rijuld/rijuld/banner.gif)
+![introduction banner](banner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Rijul</h1>
