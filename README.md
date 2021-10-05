@@ -1,5 +1,5 @@
 
-![introduction banner](banner.mp4)
+![introduction banner](banner.gif)
 
 
 - 🔭 I’m currently working on **LULC Change Detection project**
