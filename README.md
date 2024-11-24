@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rijuld](https://github.com/rijuld)
 
-- 📫 How to reach me **rijul.dahiya@gmail.com**
 
 
 ## My contributions
