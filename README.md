@@ -4,7 +4,8 @@
 
 - 🔭 My current research explores leveraging activation patching techniques to enable multi-modal language models to generate natural language descriptions from images. The motivation is to apply the conditioning capabilities demonstrated in text-only language models and transfer them to multi-modal settings.
 
-- 🌱 I’m currently learning **PyTorch and Tensorflow**
+- 🌱 At Groupon, our software development team crafted innovative email campaigns, leading to a significant 15% rise in customer engagement. We also developed tools that halved campaign launch times and saved over 200 hours monthly. Now at NYU, as part of the Lindsay Lab team, we're harnessing machine learning to tackle climate change, an endeavor that complements my Master's studies in Computer Science.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/rijuld](https://github.com/rijuld)
 
