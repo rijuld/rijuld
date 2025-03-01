@@ -2,7 +2,7 @@
 ![introduction banner](banner.gif)
 
 
-- 🔭 I’m currently working on **LULC Change Detection project**
+- 🔭 My current research explores leveraging activation patching techniques to enable multi-modal language models to generate natural language descriptions from images. The motivation is to apply the conditioning capabilities demonstrated in text-only language models and transfer them to multi-modal settings.
 
 - 🌱 I’m currently learning **PyTorch and Tensorflow**
 
@@ -25,4 +25,4 @@
 
 ## :chart_with_upwards_trend: My GitHub stats
 
-![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijuld&show_icons=true&theme=dracula)
+![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijuld&show_icons=true&theme=dracula&hide_rank=true)
