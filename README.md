@@ -2,7 +2,7 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-![Local Animation](./hero.svg)
+<img src="banner.gif" width="400" alt="App Demo">
 
 <br/>
 
