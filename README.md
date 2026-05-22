@@ -2,8 +2,8 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-<video src="banner.gif" autoplay loop muted playsinline width="100%">
-</video>
+
+![](banner.mp4)
 
 <br/>
 
