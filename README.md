@@ -4,7 +4,6 @@
 
 ![Local Animation](./hero.svg)
 
-
 <br/>
 
 <a href="https://git.io/typing-svg">
@@ -21,9 +20,6 @@
 &nbsp;
 <a href="mailto:rijul.dahiya@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
-</div>
-
-
 <br/><br/>
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rijuld&bg_color=0a0a0a&color=ffffff&line=ffffff&point=64748b&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20activity" alt="activity"/>
@@ -32,15 +28,15 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rijuld&hide_border=true&background=0a0a0a&stroke=1e293b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" alt="streak"/>
 
-</div>
-
-<br/>
-
-<br/>
+<br/><br/>
 
 <!-- ── ABOUT ──────────────────────────────────────────────────────────────── -->
 
 ### `whoami`
+
+</div>
+
+<div align="center">
 
 ```yaml
 name:        Rijul Dahiya
@@ -51,7 +47,11 @@ interested:  agentic systems · multimodal reasoning · generative video · clim
 elsewhere:   rijul.co — writing, projects, notes
 ```
 
-I build at the seam between research and product — training models, shipping the systems around them, and writing about what I learn. Most recently leading **GameWorldScore** (RL for diffusion world models, ICML 2025 submission) and prototyping AI data infrastructure with VLGE.
+</div>
+
+<div align="center">
+
+I build at the seam between research and product — training models, shipping the systems around them, and writing about what I learn. Most recently leading <b>GameWorldScore</b> (RL for diffusion world models, ICML 2025 submission) and prototyping AI data infrastructure with VLGE.
 
 <br/>
 
@@ -59,10 +59,10 @@ I build at the seam between research and product — training models, shipping t
 
 ### `now`
 
-> 🧪 &nbsp; Finetuning Minecraft world models with GRPO and a ground-truth-free reward stack
-> 🧠 &nbsp; Implementing Ring Attention & sparse transformers from scratch
-> 🛰️ &nbsp; Exploring spatial-temporal behavioral data for AI training
-> ✍️ &nbsp; Writing about world models and the post-LLM stack on [Medium](https://medium.com/@rijuldahiya)
+🧪 &nbsp; Finetuning Minecraft world models with GRPO and a ground-truth-free reward stack <br/>
+🧠 &nbsp; Implementing Ring Attention & sparse transformers from scratch <br/>
+🛰️ &nbsp; Exploring spatial-temporal behavioral data for AI training <br/>
+✍️ &nbsp; Writing about world models and the post-LLM stack on <a href="https://medium.com/@rijuldahiya">Medium</a>
 
 <br/>
 
@@ -70,9 +70,9 @@ I build at the seam between research and product — training models, shipping t
 
 ### `stack`
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
       <h4>Research & ML</h4>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C"/><br/>
@@ -83,7 +83,7 @@ I build at the seam between research and product — training models, shipping t
         <img src="https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=4D77CF"/>
       </p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
       <h4>Systems & Backend</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD43B"/><br/>
@@ -94,7 +94,7 @@ I build at the seam between research and product — training models, shipping t
         <img src="https://img.shields.io/badge/Kafka-000?style=flat-square&logo=apachekafka&logoColor=white"/>
       </p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
       <h4>Product & Cloud</h4>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6"/><br/>
@@ -114,22 +114,15 @@ I build at the seam between research and product — training models, shipping t
 
 ### `work`
 
-- **VLGE Inc.** — AI training data infrastructure; spatial-temporal behavioral data
-- **Agree.com** — Engineering across AI-augmented document workflows
-- **BNY Mellon** — Software engineering; data platforms
-- **Providence Healthcare** — ML pipelines for healthcare data
-- **ISRO** — Geospatial / satellite imagery (Sentinel-2, vegetation indices)
+<b>VLGE Inc.</b> — AI training data infrastructure; spatial-temporal behavioral data <br/>
+<b>Agree.com</b> — Engineering across AI-augmented document workflows <br/>
+<b>BNY Mellon</b> — Software engineering; data platforms <br/>
+<b>Providence Healthcare</b> — ML pipelines for healthcare data <br/>
+<b>ISRO</b> — Geospatial / satellite imagery (Sentinel-2, vegetation indices)
 
-<br/>
-
-<!-- ── STATS ──────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
+<br/><br/>
 
 <!-- ── FOOTER ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
 
 ```
 the best way to predict the future is to train it.
