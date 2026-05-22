@@ -3,7 +3,7 @@
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
 
-![](banner.mp4)
+<h1>Rijul Dahiya</h1>
 
 <br/>
 
@@ -115,7 +115,7 @@ I build at the seam between research and product — training models, shipping t
 
 ### `work`
 
-<b>VLGE Inc.</b> — AI training data infrastructure; spatial-temporal behavioral data <br/>
+<b>Pollylabs</b> — AI Agents/Tools for Compliance <br/>
 <b>Agree.com</b> — Engineering across AI-augmented document workflows <br/>
 <b>BNY Mellon</b> — Software engineering; data platforms <br/>
 <b>Providence Healthcare</b> — ML pipelines for healthcare data <br/>
