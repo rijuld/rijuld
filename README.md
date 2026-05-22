@@ -2,6 +2,8 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&animation=fadeIn" width="100%" alt=""/>
+
 <a href="https://rijul.co">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=90&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&height=140&lines=Rijul+Dahiya" alt="Rijul Dahiya"/>
 </a>
