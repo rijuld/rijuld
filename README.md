@@ -2,7 +2,7 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/rijuld/rijuld/main/hero.svg" width="100%" alt="Rijul Dahiya"/>
+<img src="banner.gif" width="100%" alt="Rijul Dahiya"/>
 
 <br/>
 
