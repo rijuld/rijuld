@@ -2,7 +2,8 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-<img src="banner.gif" width="400" alt="App Demo">
+<video src="banner.mp4" autoplay loop muted playsinline width="100%">
+</video>
 
 <br/>
 
