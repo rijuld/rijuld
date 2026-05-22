@@ -3,7 +3,7 @@
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
 <a href="https://rijul.co">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=88&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=160&lines=Rijul+Dahiya" alt="Rijul Dahiya"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=90&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&height=140&lines=Rijul+Dahiya" alt="Rijul Dahiya"/>
 </a>
 
 <sub>Engineer &nbsp;•&nbsp; Researcher &nbsp;•&nbsp; Builder</sub>
