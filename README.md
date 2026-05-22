@@ -2,7 +2,7 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-![Local Animation](./banner.gif)
+![Local Animation](./hero.svg)
 
 
 <br/>
