@@ -3,13 +3,15 @@
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
 <a href="https://rijul.co">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Rijul%20Dahiya&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=88&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=160&lines=Rijul+Dahiya" alt="Rijul Dahiya"/>
 </a>
+
+<sub>Engineer &nbsp;•&nbsp; Researcher &nbsp;•&nbsp; Builder</sub>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=64748B&center=true&vCenter=true&multiline=false&width=720&height=40&lines=AI+Researcher+%E2%80%A2+ML+Systems+%E2%80%A2+NYU+Courant;Generative+models%2C+world+models%2C+agents;Currently+training+things+that+shouldn%27t+work+%E2%80%94+until+they+do." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=64748B&center=true&vCenter=true&multiline=false&width=820&height=40&lines=+AI+Researcher+%E2%80%A2+ML+Systems+%E2%80%A2+NYU+Courant;+Generative+models%2C+world+models%2C+agents;+Currently+training+things+that+shouldn%27t+work+%E2%80%94+until+they+do." alt="typing"/>
 </a>
 
 <br/><br/>
@@ -107,29 +109,6 @@ I build at the seam between research and product — training models, shipping t
 - **BNY Mellon** — Software engineering; data platforms
 - **Providence Healthcare** — ML pipelines for healthcare data
 - **ISRO** — Geospatial / satellite imagery (Sentinel-2, vegetation indices)
-
-<br/>
-
-<!-- ── STATS ──────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `stats`
-
-<a href="https://github.com/rijuld">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=rijuld&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=94a3b8&icon_color=ffffff&bg_color=0a0a0a&hide=contribs" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=rijuld&layout=compact&hide_border=true&langs_count=8&title_color=ffffff&text_color=94a3b8&bg_color=0a0a0a" alt="languages"/>
-</a>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rijuld&bg_color=0a0a0a&color=ffffff&line=ffffff&point=64748b&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20activity" alt="activity"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rijuld&hide_border=true&background=0a0a0a&stroke=1e293b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" alt="streak"/>
-
-</div>
 
 <br/>
 
