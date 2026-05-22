@@ -23,6 +23,19 @@
 
 </div>
 
+
+<br/><br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rijuld&bg_color=0a0a0a&color=ffffff&line=ffffff&point=64748b&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20activity" alt="activity"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rijuld&hide_border=true&background=0a0a0a&stroke=1e293b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" alt="streak"/>
+
+</div>
+
+<br/>
+
 <br/>
 
 <!-- ── ABOUT ──────────────────────────────────────────────────────────────── -->
@@ -113,24 +126,6 @@ I build at the seam between research and product — training models, shipping t
 
 <div align="center">
 
-### `stats`
-
-<a href="https://github.com/rijuld">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=rijuld&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=94a3b8&icon_color=ffffff&bg_color=0a0a0a&hide=contribs" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=rijuld&layout=compact&hide_border=true&langs_count=8&title_color=ffffff&text_color=94a3b8&bg_color=0a0a0a" alt="languages"/>
-</a>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rijuld&bg_color=0a0a0a&color=ffffff&line=ffffff&point=64748b&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20activity" alt="activity"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rijuld&hide_border=true&background=0a0a0a&stroke=1e293b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" alt="streak"/>
-
-</div>
-
-<br/>
 
 <!-- ── FOOTER ─────────────────────────────────────────────────────────────── -->
 
