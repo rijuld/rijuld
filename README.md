@@ -2,7 +2,7 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-<img src="banner.gif" width="100%" alt="Rijul Dahiya"/>
+<img src="hero.svg" width="100%" alt="Rijul Dahiya"/>
 
 <br/>
 
