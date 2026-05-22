@@ -2,7 +2,7 @@
 
 <!-- ── HERO ───────────────────────────────────────────────────────────────── -->
 
-<video src="banner.mp4" autoplay loop muted playsinline width="100%">
+<video src="banner.gif" autoplay loop muted playsinline width="100%">
 </video>
 
 <br/>
