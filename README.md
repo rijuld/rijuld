@@ -23,10 +23,6 @@
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rijuld&bg_color=0a0a0a&color=ffffff&line=ffffff&point=64748b&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20activity" alt="activity"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rijuld&hide_border=true&background=0a0a0a&stroke=1e293b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" alt="streak"/>
 
 <br/><br/>
