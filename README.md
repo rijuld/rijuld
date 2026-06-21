@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=64748B&center=true&vCenter=true&multiline=false&width=820&height=40&lines=+AI+Researcher+%E2%80%A2+ML+Systems+%E2%80%A2+NYU+Courant;+Generative+models%2C+world+models%2C+agents;+Currently+training+things+that+shouldn%27t+work+%E2%80%94+until+they+do." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=64748B&center=true&vCenter=true&multiline=false&width=820&height=40&lines=Founding+Engineer+Mindset+%E2%80%A2+ML+%2B+Backend;+Building+agentic+systems%2C+APIs%2C+and+scalable+infrastructure;+Shipping+fast%2C+learning+faster." alt="typing"/>
 </a>
 
 <br/><br/>
